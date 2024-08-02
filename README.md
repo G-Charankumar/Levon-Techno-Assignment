@@ -43,13 +43,10 @@ Develop a fully responsive web and mobile dashboard application using ReactJS. T
 ## Installation
 
 1. Clone the repository:
-   bash
    git clone https://github.com/G-Charankumar/Levon-Techno-Assignment.git
 
 2. Install dependencies:
-   bash
    npm install react-router-dom
 
 4. Start the development server:
-   bash
    npm start
